@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Fran Margarit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/franelmarga">
+  <a href="https://github.com/franmargarit">
 	  
   </a>
 </p>
@@ -8,7 +8,7 @@
 <br>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=franelmarga&label=Profile%20views&color=0047AB&style=plastic" alt="franelmarga" /> 
+  <img src="https://komarev.com/ghpvc/?username=franmargarit&label=Profile%20views&color=0047AB&style=plastic" alt="franmargarit" /> 
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -89,15 +89,15 @@
 
 <p align = "center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franelmarga&theme=tokyonight_duo" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franmargarit&theme=tokyonight_duo" alt="GitHub Streak" />
 </p>
 
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=franelmarga&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franmargarit&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franelmarga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franmargarit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 </details>
 
@@ -108,7 +108,7 @@
 <details><summary><h3>🏆 GitHub Trophies</h3></summary>
 <p align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=franelmarga&theme=nord&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=franmargarit&theme=nord&column=7" alt="GitHub Trophies" />
 </p>
 </details>
 
