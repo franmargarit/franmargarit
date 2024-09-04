@@ -101,9 +101,8 @@
 </p>
 </details>
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+[![Fran's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=franmargarit&theme=react-dark)](https://github.com/franmargarit)
+
 
 <details><summary><h3>🏆 GitHub Trophies</h3></summary>
 <p align="center">
