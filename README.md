@@ -92,24 +92,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=franmargarit&theme=tokyonight_duo" alt="GitHub Streak" />
 </p>
 
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=franmargarit&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franmargarit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-</details>
 
-[![Fran's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=franmargarit&theme=react-dark)](https://github.com/franmargarit)
-
-
-<details><summary><h3>🏆 GitHub Trophies</h3></summary>
 <p align="center">
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=franmargarit&theme=nord&column=7" alt="GitHub Trophies" />
 </p>
-</details>
 
 
 
