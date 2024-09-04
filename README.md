@@ -87,16 +87,21 @@
 
 <br>
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=franmargarit&theme=tokyonight" alt="GitHub Contributions Graph" />
+</p>
+
 <p align = "center">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=franmargarit&theme=tokyonight_duo" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=franmargarit&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franmargarit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=franmargarit&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franmargarit&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
