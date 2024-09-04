@@ -87,7 +87,10 @@
 
 <br>
 
-[![Fran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=franmargarit)](https://github.com/franmargarit/github-readme-activity-graph)
+
+## 📈 My Activity Graph
+
+[![Fran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=franmargarit&theme=dracula)](https://github.com/franmargarit/github-readme-activity-graph)
 
 
 
